@@ -7,5 +7,5 @@ This project is in partial fulfillment of the requirements of a Bachelor's Degre
 Computer Information Systems.
 
 The system consists of two components:
-1. The Flutter project's source code.
+1. The Parkin project's using flutter source code.
 2. Scripts for the hardware implementation using OpenCV.
